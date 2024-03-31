@@ -26,7 +26,7 @@ The dataset is sourced from Kaggle and contains anonymized sales data for Adidas
 
 ### Data Format
 
-The dataset is provided in CSV (Comma-Separated Values) format, making it easily accessible and compatible with various data analysis tools and programming languages.
+The dataset is provided in XLSX (Microsoft Excel) format, making it easily accessible and compatible with various data analysis tools and programming languages.
 
 
 ### Usage
